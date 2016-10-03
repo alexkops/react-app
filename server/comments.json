@@ -1,12 +1,27 @@
 [
-  {
-    "id": 1388534400000,
-    "author": "Pete Hunt",
-    "text": "Hey there ako!"
-  },
-  {
-    "id": 1420070400000,
-    "author": "Paul O’Shannessy",
-    "text": "React is (not so) *great*!"
-  }
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there ako!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is (not so) *great*!"
+    },
+    {
+        "id": 1475499523968,
+        "author": "ako",
+        "text": "123"
+    },
+    {
+        "id": 1475499536392,
+        "author": "whoever",
+        "text": "12334"
+    },
+    {
+        "id": 1475499633858,
+        "author": "jasper",
+        "text": "123ggg"
+    }
 ]
